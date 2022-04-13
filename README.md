@@ -1,6 +1,5 @@
 # study
-#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
-##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
+###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
 -------------------------------------------------
 openssl genrsa -des3 -passout pass:<anypwd> -out server.pass.key 2048
 openssl rsa -passin pass:<anypwd> -in server.pass.key -out server.key
